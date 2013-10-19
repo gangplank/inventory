@@ -1,0 +1,4 @@
+== Inventory
+
+A minimalist rails app for taking stock.
+
